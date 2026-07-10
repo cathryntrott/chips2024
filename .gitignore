@@ -1,0 +1,11 @@
+gmon.out
+gridvisdifffine
+lssa_fg_simple
+prepare_diff
+bin/*
+*.dSYM
+**/.DS_Store
+combine_data
+gridvisdiff
+ps_metrics
+lssa_fg_general
